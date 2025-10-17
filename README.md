@@ -5,6 +5,8 @@ Authors: Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee,
 
 DATA: Rational L-functions in LMFDB with Root Analytic Conductor Less Than 4 - https://doi.org/10.5281/zenodo.14774042
 
+Code assumes data is stored in the file named: lfun_rat_withap.txt
+
 **pot_murmurations.py**
 Creates the plots for murmurations of rational L-functions.
 
