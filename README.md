@@ -8,10 +8,13 @@ DATA: Rational L-functions in LMFDB with Root Analytic Conductor Less Than 4 - h
 Code assumes data is stored in the file named: lfun_rat_withap.txt
 
 **pot_murmurations.py**
-Creates the plots for murmurations of rational L-functions.
+
+- Creates the plots for murmurations of rational L-functions.
 
 **rat_L_pca_lda_big.py**
-Exploratory data analysis for rational L-functions including data normalization, PCA, and LDA results.
+
+- Exploratory data analysis for rational L-functions including data normalization, PCA, and LDA results.
 
 **Supervised_learning_with_CNN.ipynb**
-Machine learning of vanishing order using a convoluntional neural network.
+
+- Machine learning of vanishing order using a convoluntional neural network. 
